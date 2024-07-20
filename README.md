@@ -54,14 +54,6 @@ The objective of this project is to create a simple command-line calculator in P
 
 - **Execution:** The script checks if it is being run as the main program (`if __name__ == "__main__":`) and then calls the `main()` function to start the calculator.
 
-### Potential Enhancements:
-
-- **Additional Operations:** Expand functionality to include more advanced operations (exponentiation, square root, etc.).
-- **GUI Integration:** Convert the command-line interface into a graphical user interface (GUI) using libraries like Tkinter or PyQt.
-- **Memory Functionality:** Implement memory functions (memory recall, store, clear) for more complex calculations.
-- **Unit Tests:** Develop unit tests to ensure robustness and reliability of the calculator functions.
-- **Localization:** Support multiple languages or localization features.
-
 ### Conclusion:
 
 This simple command-line calculator project provides a foundational example of basic Python programming concepts such as functions, loops, conditional statements, and input/output operations. It demonstrates how to create an interactive application that performs useful calculations while maintaining a clear and responsive user interface.
